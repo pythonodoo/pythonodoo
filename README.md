@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently working on Odoo erp.
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me tech4sab@gmail.com
+- 📫 How to reach me irfanbcs796@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
